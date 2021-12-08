@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **emiliocapitaine96@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/emiliocapitaine/](www.linkedin.com/in/emiliocapitaine/)
+- 📄 Know about my experiences [Linkedin](www.linkedin.com/in/emiliocapitaine/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
