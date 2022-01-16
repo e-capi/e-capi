@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emilio</h1>
 <h3 align="center">A passionate Junior Data Engineer from France</h3>
 
-- 🔭 I’m currently working on [Predict Water Pollution](https://github.com/sebvey/water_pollution)
+- 🔭 I’m currently working on [AI Chatbot](https://github.com/e-capi/Chat_bot_Software_Engineer)
 
 - 🌱 I’m currently learning **GCP, Airflow, Docker**
 
