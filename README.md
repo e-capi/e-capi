@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Emilio</h1>
 <h3 align="center">A passionate Junior Data Engineer</h3>
 
-- 🔭 I’m currently working on [AI ChatBot](https://github.com/e-capi/Chat_bot_Software_Engineer)
+- 🔭 I’m currently working at Wasder
 
-- 🌱 I’m currently learning **Spark**
+- 🌱 I’m currently learning **DBT**
 
 - 📫 How to reach me **emiliocapitaine96@gmail.com**
 
